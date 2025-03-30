@@ -4,3 +4,5 @@ Project requirements: -
 - Bootstrap version 5
 - Laravel Framework version 10
 - Mysql version 9.2.0
+
+Please run `php artisan serve` and `npm run dev` for testing
